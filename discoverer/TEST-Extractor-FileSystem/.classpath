@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="sources"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CAST-COE-Junit"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-Connectivity.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-DeliveryEngine-Test.tests.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-DeliveryEngine.jar" sourcepath="/CAST-COE-TargetFlat/binaries/jars/CAST-DeliveryEngine.sources.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-DeliveryModel.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-Java.jar" sourcepath="/CAST-COE-TargetFlat/binaries/jars/CAST-Java.sources.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-MDA.jar" sourcepath="/CAST-COE-TargetFlat/binaries/jars/CAST-MDA.sources.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-MDA.tests.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-Utilities.jar" sourcepath="/CAST-COE-TargetFlat/binaries/jars/CAST-Utilities.sources.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-CommandLineApplications.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-DeliveryEngineCLI.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-DeliveryEngineCLI.tests.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/3rdParties/java/binaries/easymock-3.1/easymock-3.1.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-Utilities.tests.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-DeliveryEngine.tests.jar"/>
+	<classpathentry kind="lib" path="/CAST-COE-TargetFlat/binaries/jars/CAST-Junit.tests.jar"/>
+<!--
+	<classpathentry combineaccessrules="false" kind="src" path="/CAST-Techno-Microsoft"/>
+	<classpathentry kind="lib" path="/CAST-3rdPartiesJava/binaries/apache-commons/codec-1.3/commons-codec-1.3.jar" sourcepath="/CAST-3rdPartiesJava/binaries/apache-commons/codec-1.3/sources.zip"/>
+	<classpathentry kind="lib" path="/CAST-3rdPartiesJava/binaries/apache-commons/fileupload-1.2.2/lib/commons-fileupload-1.2.2.jar" sourcepath="/CAST-3rdPartiesJava/binaries/apache-commons/fileupload-1.2.2/sources.zip"/>
+	<classpathentry kind="lib" path="/CAST-3rdPartiesJava/binaries/apache-commons/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/CAST-3rdPartiesJava/binaries/apache-vfs/commons-vfs2-2.0.jar" sourcepath="/CAST-3rdPartiesJava/binaries/apache-vfs/commons-vfs2-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/CAST-3rdPartiesJava/binaries/apache-commons/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="/CAST-3rdPartiesJava/binaries/apache-commons/logging-1.1.1/commons-logging-1.1.1.jar" sourcepath="/CAST-3rdPartiesJava/binaries/apache-commons/logging-1.1.1/commons-logging-1.1.1-sources.jar"/>
+-->
+	<classpathentry kind="output" path="classes"/>
+</classpath>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+	<language name="English">
+		<message id="test.dmt.extractor.filesystem.extractionURLNotAbsoluteFailure" format="The path to extract must be an absolute path: %FILE%" />
+		<message id="test.dmt.extractor.filesystem.extractionURLNotFoundFailure" format="The path to extract does not exist: %FILE%" />
+		<message id="test.dmt.extractor.filesystem.directoryListingFailure" format="Failed to read directory content: %DIR%" />
+	</language>
+</messages>
