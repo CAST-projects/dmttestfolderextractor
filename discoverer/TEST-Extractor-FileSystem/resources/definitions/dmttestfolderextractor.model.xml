@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document>
-    <library imageRootPath="icons" javaRootPath="com.castsoftware.dmt.model" product="DMT" symbol="dmttestfolderextractor" version="1.0" dependencies="delivery:2.0;dmtdevfolderextractor:1.0">
+    <library imageRootPath="icons" javaRootPath="com.castsoftware.dmt.model" product="DMT" symbol="dmttestfolderextractor" version="1.0" dependencies="delivery:2.10;dmtdevfolderextractor:1.0">
         <entity symbol="SourceFolderExtractor" baseEntity="delivery.SourceFileBaseExtractor" label="Folder on your local file system (copy of orignal location)">
             <topic symbol="a" viewForm="body">
                 <topic symbol="connection">
